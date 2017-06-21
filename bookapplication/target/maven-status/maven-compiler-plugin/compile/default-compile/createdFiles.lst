@@ -1,0 +1,5 @@
+com\book\bookapplication\repository\UserRepository.class
+com\book\bookapplication\BookapplicationApplication.class
+com\model\User.class
+com\book\bookapplication\controller\UserController.class
+com\book\bookapplication\controller\HomeController.class
